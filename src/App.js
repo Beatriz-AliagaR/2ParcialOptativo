@@ -42,6 +42,25 @@ function App() {
           <p>3/8/2020</p>
         </div>
       </div>
+    /**helper/note/completed */
+      <div class="card">
+        <div class="card_header gray">
+          <div class="tittle">
+            <div class="circle">1</div>
+            <p>Agenda/Topic</p>
+          </div>
+          <div class="id">
+            <p>SAAS-000</p>
+          </div>
+        </div>
+        <div class="card_section">
+          <p>Description of what is done here</p>
+        </div>
+        <div class="card_footer">
+          <p>Last Updated</p>
+          <p>3/8/2020</p>
+        </div>
+      </div>
 
 
     </>

@@ -44,7 +44,7 @@ function App() {
       </div>
     /**helper/note/completed */
       <div class="card">
-        <div class="card_header gray">
+        <div class="card-header gray">
           <div class="tittle">
             <div class="circle">1</div>
             <p>Agenda/Topic</p>
@@ -53,10 +53,10 @@ function App() {
             <p>SAAS-000</p>
           </div>
         </div>
-        <div class="card_section">
+        <div class="card-section">
           <p>Description of what is done here</p>
         </div>
-        <div class="card_footer">
+        <div class="card-footer">
           <p>Last Updated</p>
           <p>3/8/2020</p>
         </div>
